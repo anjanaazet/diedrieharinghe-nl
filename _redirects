@@ -1,1 +1,4 @@
 /index.php / 301
+/spinjoys-nl/* /spin-joys-nl/:splat 301
+/netherlands-nl/* /spin-joys-nl/:splat 301
+/nl-NL/* /spin-joys-nl/:splat 301
